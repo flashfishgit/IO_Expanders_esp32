@@ -1,3 +1,8 @@
 version: "0.0.1"
 descrription: "A library for IO_Expander including PI4IOE5V9539"
 url: "https://github.com/flashfishgit/IO_Expanders_esp32"
+
+dependencies:
+  flashfishgit/IO_Expanders_esp32:
+    version: "*"
+    registry_url: https://components-staging.espressif.com
