@@ -1,0 +1,17 @@
+dependencies:
+  flashfishgit/io_expanders_esp32:
+    component_hash: 33e9e699027373e33b7ca1203de27085d3cb32d4c2f9fde3ebe3cbcc6e483df5
+    dependencies: []
+    source:
+      registry_url: https://components-staging.espressif.com
+      type: service
+    version: 0.0.1
+  idf:
+    source:
+      type: idf
+    version: 5.3.1
+direct_dependencies:
+- flashfishgit/io_expanders_esp32
+manifest_hash: b16a04ff9f8cdf55e33ef323279077b0c3f3c5f5e7c1f81d2304a7e80219e983
+target: esp32
+version: 2.0.0

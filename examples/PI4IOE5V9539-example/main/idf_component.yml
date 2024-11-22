@@ -1,0 +1,4 @@
+dependencies:
+  flashfishgit/io_expanders_esp32:
+    version: '*'
+    registry_url: https://components-staging.espressif.com

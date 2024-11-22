@@ -1,7 +1,5 @@
-#include <stdio.h>
 #include "IO_Expanders.h"
 
-void func(void)
-{
-
+int test(){
+    return 10;
 }
