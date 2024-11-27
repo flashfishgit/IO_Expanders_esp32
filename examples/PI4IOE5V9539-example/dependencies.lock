@@ -12,6 +12,6 @@ dependencies:
     version: 5.3.1
 direct_dependencies:
 - flashfishgit/io_expanders_esp32
-manifest_hash: b16a04ff9f8cdf55e33ef323279077b0c3f3c5f5e7c1f81d2304a7e80219e983
+manifest_hash: 0b08146cee6f102ff90489f74654e54701565d73581fe56850721c707f6dad62
 target: esp32
 version: 2.0.0
